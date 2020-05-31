@@ -1,5 +1,7 @@
 # git使用笔记
 
+**首先感谢谢大佬们的知识传授，下面是个[小甲鱼视屏传送门](https://www.bilibili.com/video/BV1Vs411876L?from=search&seid=5848744772402899711)**;
+
 ## Git 的基础设置
 
 1. 设置用户名： 
