@@ -7,7 +7,7 @@
 1. 设置用户名： 
    - git config --global user-name
    - my username:[201983290498](https://github.com/201983290498)
-   - password: ln20010315
+   - [password](ln20010315)
 
 2. 设置用户名的邮箱：
    - git config --global user-email
